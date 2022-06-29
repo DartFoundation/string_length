@@ -1,11 +1,10 @@
 /*    
     Create function func.
-    create function arguments 's1' , 's2' and 's3'
-        Given three strings, s1, s2 and s3. return their odd lengths, example "[s1, s2]". If there is no odd length, return "[]".
+    create function arguments 's1' and 's2' 
+        Given three strings, s1 and s2 . return their even lengths, example "s1". If there is no even length, return "s2".
     Args:
         s1: string
         s2: string
-        s3: string
     Returns:
         string
 */
