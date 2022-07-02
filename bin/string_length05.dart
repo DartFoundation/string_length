@@ -1,6 +1,5 @@
 /*
-    Create function func.
-    create function arguments 's1' and 's2'
+    Create function func with function arguments 's1' and 's2'
         Given two strings, s1 and s2. Find their total length.
     Args:
         s1: string

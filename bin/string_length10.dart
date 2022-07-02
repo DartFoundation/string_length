@@ -1,6 +1,5 @@
 /*
-    Create function func.
-    create function arguments 's'
+    Create function func with function arguments 's'
     A string of length three is given. Check that it is a palindrome.
     Return True if the palindrome is False otherwise
     Args:
