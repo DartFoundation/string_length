@@ -1,7 +1,6 @@
 /*
     Create function func with function arguments 's'
-    A string of length three is given. Check that it is a palindrome.
-    Return True if the palindrome is False otherwise
+    return the given string to uppercase
     Args:
         s: str
     Returns:

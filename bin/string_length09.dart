@@ -1,9 +1,9 @@
-/*  Create function func with function arguments 'num1' and 'num2' 
-        Given two non-negative integers, num1 and num2 represented as string.
-    Return the sum of num1 and num2 as a string.
+/*  Create function func with function arguments 's1' and 's2' 
+    Given two String, s1 and s2 .
+    if s1 is longer than s2 return s1 add to s2 otherwise return s1 itself
     Args:
-        num1: str
-        num2: str
+        s1: str
+        s2: str
     Returns:
         str: answer
      */
