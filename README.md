@@ -99,21 +99,22 @@ Output: "exam"
 
 ## string_len07
 
-  Given three strings, s1, s2 and s3. return their odd lengths, example "[s1, s2]". If there is no odd length, return "[]".
+  Given three strings, s1 and s2 . return their even lengths, example "s1". If there is no even length, return "s2".
+
 
 **Example 1:**
 
 ```Python
-Input: s1="code" s2="python" s3="coder"
-Output: "[coder]"
+Input: s1="code" s2="python" 
+Output: "code"
 
 ```
 
 **Example 2:**
 
 ```Python
-Input: s1="codeschool.uz" s2="example" s3="python"
-Output: "[codeschool.uz, example]"
+Input: s1="coder" s2="example" 
+Output: "coder"
 
 ```
 
