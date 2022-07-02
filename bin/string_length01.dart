@@ -1,6 +1,6 @@
 /*    
     Create function func with function argument 'text'
-    A variable of type string is given. Find its length.
+    A argument of type string is given. Find its length.
     Args:
         a: string
     Returns:

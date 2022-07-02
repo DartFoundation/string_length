@@ -1,6 +1,6 @@
 /*
     Create function func with function arguments 'a' and 'b'
-    String type variables a and b are given. Return True if the length is equal. If not equal, return False.
+    String type argument a and b are given. ReturnTrue if both arguments are of equal length.
     Args:
         a: string
         b: string
